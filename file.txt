@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello from jainandan
-=======
-hi i 
->>>>>>> feature
